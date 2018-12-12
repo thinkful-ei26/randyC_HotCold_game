@@ -1,0 +1,34 @@
+.mainScreen {
+
+  background-color: grey;
+
+}
+
+
+.mainList {
+  padding: 25px;
+  list-style-type: none;
+  text-align: center;
+ 
+}
+
+.listItem {
+
+  padding: 15px;
+  
+}
+
+.specialListItem {
+
+  padding: 25px;
+  color: darkred;
+
+
+}
+
+.bigListItem {
+
+  color: darkblue;
+  font-size: x-large;
+
+}
